@@ -18,6 +18,7 @@ Here is how to do this:
     - Select `Any` of the following are true
     - Add a condition **`Bundle identifier`** → **`contains`** → **`com.google.Chrome`**
     - Add a condition **`Bundle identifier`** → **`contains`** → **`com.brave.Browser`**
+    - 
 The case matters in the bundle identifier value.
 
 ## Typing ⌘K in System Preferences Opens the App Keyboard Shortcuts
