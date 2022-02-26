@@ -1,4 +1,4 @@
-# mac_automation
+# Mac Automation
 
 This is where I put scripts I use to **automate workflows on my Mac** 
 in [Keyboard Meastro](https://www.keyboardmaestro.com) 
